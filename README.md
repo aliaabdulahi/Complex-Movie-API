@@ -1,6 +1,8 @@
 # Complex-Movie-API
 The complex movie Api uses data retrieved from the move API and sends that data to the wikipedia API.
 
+![alt tag](preview1.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
